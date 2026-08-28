@@ -11,7 +11,7 @@ A modern and responsive **Wanderlust Travel website** built using **HTML, CSS, a
 
 ## 📸 Preview
 
-![Wanderlust Travel Website Preview](./assets/videos/ss.mp4)
+![Wanderlust Travel Website Preview](./assets/ss.png)
 
 ## ✨ Features
 
